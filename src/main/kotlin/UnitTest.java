@@ -13,8 +13,6 @@ public class UnitTest {
             myLinkedList.popLast();}
     }
 
-    public void prueba2(){
-
-    }
+  
 
 }
